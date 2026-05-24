@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real Estate AI Daily</title>
+    <link>https://tagryantoos-commits.github.io/real-estate-ai-daily-podcast/</link>
+    <language>en-us</language>
+    <description>The biggest AI news of the day, broken down for real estate team leaders. Two hosts, ten minutes, practical applications you can actually use in your business. Generated fresh every morning at 7 AM Mountain.</description>
+    <itunes:subtitle>AI news for real estate team leaders</itunes:subtitle>
+    <itunes:summary>The biggest AI news of the day, broken down for real estate team leaders. Two hosts, ten minutes, practical applications you can actually use in your business. Generated fresh every morning at 7 AM Mountain.</itunes:summary>
+    <itunes:author>Ryan Thomson</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ryan Thomson</itunes:name>
+      <itunes:email>TagRyanToos@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tagryantoos-commits.github.io/real-estate-ai-daily-podcast/cover.png"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Plumbing of AI Agents: Tool Calling Done Right</title>
+      <description>The Plumbing of AI Agents: Tool Calling Done Right — auto-generated daily AI brief.</description>
+      <itunes:summary>The Plumbing of AI Agents: Tool Calling Done Right</itunes:summary>
+      <pubDate>Sat, 23 May 2026 07:00:00 -0600</pubDate>
+      <enclosure url="https://files.catbox.moe/8io8q4.mp3" length="9017627" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-23_the-plumbing-of-ai-agents-tool-calling-done-right.mp3</guid>
+      <itunes:duration>00:09:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Nine Hundred Dollar OS - Read the Footnotes</title>
+      <description>The Nine Hundred Dollar OS - Read the Footnotes — auto-generated daily AI brief.</description>
+      <itunes:summary>The Nine Hundred Dollar OS - Read the Footnotes</itunes:summary>
+      <pubDate>Sat, 23 May 2026 07:01:00 -0600</pubDate>
+      <enclosure url="https://files.catbox.moe/20o9sj.mp3" length="7705134" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-23_the-nine-hundred-dollar-os-read-the-footnotes.mp3</guid>
+      <itunes:duration>00:08:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Build Your Personal Board of Directors With GenAI</title>
+      <description>Build Your Personal Board of Directors With GenAI — auto-generated daily AI brief.</description>
+      <itunes:summary>Build Your Personal Board of Directors With GenAI</itunes:summary>
+      <pubDate>Sat, 23 May 2026 07:02:00 -0600</pubDate>
+      <enclosure url="https://files.catbox.moe/jfpvyl.mp3" length="7109146" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-23_build-your-personal-board-of-directors-with-genai.mp3</guid>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Karpathy Joins Anthropic: The Move Is the Message</title>
+      <description>Karpathy Joins Anthropic: The Move Is the Message — auto-generated daily AI brief.</description>
+      <itunes:summary>Karpathy Joins Anthropic: The Move Is the Message</itunes:summary>
+      <pubDate>Fri, 22 May 2026 07:03:00 -0600</pubDate>
+      <enclosure url="https://files.catbox.moe/toetkm.mp3" length="10660401" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-22_karpathy-joins-anthropic-the-move-is-the-message.mp3</guid>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
